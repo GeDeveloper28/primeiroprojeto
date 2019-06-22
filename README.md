@@ -1,2 +1,2 @@
-# https://gedeveloper28.github.io/primeiroprojeto/
+# primeiroprojeto
 Meu primeiro projeto de desenvolvimento!!!
